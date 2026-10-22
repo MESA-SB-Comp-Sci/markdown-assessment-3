@@ -1,43 +1,34 @@
 # Markdown Assessment #3
 
-Hey team! 
-
-We have been practicing using Markdown in our assessments, but more practice is always better! 
-Today we will be practicing using Markdown by creating a page with our most-used Markdown symbols. 
-
-**_Our goal: Practice using Markdown to create a well-formatted document._** 
-
 ## Task for Project 
 
-In your **Project File**, you will work on creating a beautifully rendered Markdown page. 
-
-Your goal is to **create a command-line cheat sheet**. 
+In your **Project File**, **create a command-line cheat sheet**. 
 
 **Save your changes after each portion of the project is complete.**
 
-### Project 1 
-Create a command-line cheat sheet. 
+### requirements  
+
 In your cheatsheet, you must include the following: 
+
 - [ ] A **heading** for your cheatsheet 
 - [ ] A **list** of command line commands (**mkdir**, **touch**, **ls**, **cd**, **pwd**)
 - [ ] A **general definition** of the command with the main parts in either **bold** or *italics*
 - [ ] A **code block** containing an **example** of how the command is used
+- [ ] Use **every** symbol from the *symbols covered in class* list below (links, images, numbered lists, and horizontal lines too!)
 
 The design of the page is entirely up to you but the **main requirement** is that you use **_all markdown symbols properly_**. 
 You may **use your notes** or any other resources given to help you write out any definitions or come up with any examples.
 
-### RUBRIC: 
-| LG | 4 | 3 | 2 | 1
+### RUBRIC:
+| LG | 4 | 3 | 2 | 1 |
 |--|--|--|--|--|
-| Command Line | There is a description for every command line learned along with an example. The command is used correctly in the example. Code is in a code block and is easy to read. | There is a description for most commands used along with an example. The command is used correctly in the example. Code is in a code block and is easy to read. | There is a description for each command line used along with an example. Code is in a code block and is easy to read. | Commands are missing, or the work is mostly incomplete. |     
-| Markdown | All Markdown symbols used in class are used in the cheat sheet. The Markdown is used correctly. The layout is easy to read and creative. | All Markdown symbols used in class are used in the cheat sheet. The Markdown is used correctly. The layout looks exactly the same as the model. At most, only missing 2 markdown symbols. | 50% of Markdown symbols are used in the cheat sheet. | Most Markdown is incomplete or incorrect.|
+| Markdown | All 11 Markdown symbols covered in class are used correctly. The layout is easy to read and creative.| 9–10 of the Markdown symbols covered in class are used correctly. The layout is easy to read. | 6–8 of the Markdown symbols covered in class are used correctly. | 5 or fewer Markdown symbols are used correctly, or the cheat sheet is mostly incomplete. |
+
+*A symbol only counts if it is used correctly and shows up properly in the preview.*
 
 ---
 
-## Markdown Cheat Sheet 
-[Link to official documentation.](https://www.markdownguide.org/cheat-sheet/) 
-
-### Most used symbols: 
+### symbols covered in class: 
 - `#` - The hashtag symbol will create a **title** or **main heading**
 - `##` - The double hashtag symbol will create a **subtitle** or **subheading**
 - `*text*` - The `*` symbol needs to be around text to make text **italics**
