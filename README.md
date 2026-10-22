@@ -11,7 +11,7 @@ Today we will be practicing using Markdown by creating a page with our most-used
 
 In your **Project File**, you will work on creating a beautifully rendered Markdown page. 
 
-Your goal is to **create a command-line cheat sheet **. 
+Your goal is to **create a command-line cheat sheet**. 
 
 **Save your changes after each portion of the project is complete.**
 
